@@ -1,0 +1,15 @@
+.footer {
+  @apply bg-[#161E20] text-white py-6;
+}
+
+.footer .container {
+  @apply mx-auto text-center;
+}
+
+.footer p {
+  @apply mb-2;
+}
+
+.footer-links {
+  @apply flex justify-center space-x-4;
+}

@@ -1,0 +1,16 @@
+.navbar {
+  @apply fixed top-0 w-full z-50 bg-[var(--color-bg)] bg-opacity-90 shadow-lg;
+  backdrop-filter: blur(10px);
+}
+
+.navbar .container {
+  @apply flex justify-between items-center py-4 px-6;
+}
+
+.navbar a {
+  @apply text-lg text-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors duration-300;
+}
+
+.navbar a.logo img {
+  @apply h-10;
+}

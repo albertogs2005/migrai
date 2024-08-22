@@ -1,0 +1,39 @@
+[
+    {
+      "image": "/assets/images/client1.jpg",
+      "brand": "Empresa A",
+      "testimonial": "La mejor decisión que hemos tomado para nuestra empresa.",
+      "client": "Cliente Satisfecho"
+    },
+    {
+      "image": "/assets/images/client2.jpg",
+      "brand": "Empresa B",
+      "testimonial": "Una solución innovadora que realmente funciona.",
+      "client": "Otro Cliente Satisfecho"
+    },
+    {
+      "image": "/assets/images/client3.jpg",
+      "brand": "Empresa C",
+      "testimonial": "MigrAI ha transformado nuestra forma de trabajar.",
+      "client": "Cliente Contento"
+    },
+    {
+        "image": "/assets/images/client4.jpg",
+        "brand": "Empresa D",
+        "testimonial": "Gracias a MigrAI, hemos automatizado procesos clave, lo que nos ha permitido ahorrar tiempo y recursos.",
+        "client": "Cliente Eficiente"
+      },
+      {
+        "image": "/assets/images/client5.jpg",
+        "brand": "Empresa E",
+        "testimonial": "El soporte y la experiencia de MigrAI han sido fundamentales para nuestra transformación digital.",
+        "client": "Cliente Agradecido"
+      },
+      {
+        "image": "/assets/images/client6.jpg",
+        "brand": "Empresa F",
+        "testimonial": "No podríamos estar más satisfechos con los resultados obtenidos tras implementar las soluciones de MigrAI.",
+        "client": "Cliente Exitoso"
+      }
+  ]
+  

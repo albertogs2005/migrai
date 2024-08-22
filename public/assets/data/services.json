@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Consultoría en IA",
+    "content": "Ofrecemos consultoría especializada para integrar la inteligencia artificial en tu empresa.",
+    "imgSrc": "/assets/images/consultoria.jpg",
+    "imgAlt": "Consultoría en IA",
+    "reverse": false
+  },
+  {
+    "title": "Desarrollo de Modelos Personalizados",
+    "content": "Desarrollamos modelos de IA personalizados para satisfacer las necesidades específicas de tu negocio.",
+    "imgSrc": "/assets/images/desarrollo.jpg",
+    "imgAlt": "Desarrollo de Modelos Personalizados",
+    "reverse": true
+  },
+  {
+    "title": "Automatización de Procesos",
+    "content": "Automatiza procesos clave en tu empresa utilizando las últimas tecnologías de inteligencia artificial.",
+    "imgSrc": "/assets/images/automatizacion.jpg",
+    "imgAlt": "Automatización de Procesos",
+    "reverse": false
+  }
+]
